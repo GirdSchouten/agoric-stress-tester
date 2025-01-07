@@ -230,3 +230,4 @@
 2025-01-07 fix edge case [20]
 2025-01-07 update version [21]
 2025-01-07 fix encoding issue [22]
+2025-01-07 better error handling [23]

@@ -227,3 +227,4 @@
 2025-01-07 fix bug [17]
 2025-01-07 cleanup dependencies [18]
 2025-01-07 fix encoding issue [19]
+2025-01-07 fix edge case [20]

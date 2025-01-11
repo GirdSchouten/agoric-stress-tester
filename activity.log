@@ -348,3 +348,4 @@
 2025-01-10 update configs for prod [25]
 2025-01-11 fix docker build [1]
 2025-01-11 fix null pointer [2]
+2025-01-11 reduce complexity [3]

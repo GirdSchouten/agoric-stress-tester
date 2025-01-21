@@ -720,3 +720,4 @@
 2025-01-21 remove unused import [16]
 2025-01-21 fix typo in docs [17]
 2025-01-21 update LICENSE [18]
+2025-01-21 better error handling [19]

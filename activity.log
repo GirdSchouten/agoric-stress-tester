@@ -784,3 +784,4 @@
 2025-01-22 improve logging format [30]
 2025-01-22 remove unused import [31]
 2025-01-22 update configs for prod [32]
+2025-01-22 add fallback [33]

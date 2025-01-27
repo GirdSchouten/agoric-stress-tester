@@ -970,3 +970,4 @@
 2025-01-27 improve caching [23]
 2025-01-27 fix compatibility [24]
 2025-01-27 rollback changes [25]
+2025-01-27 fix config bug [26]

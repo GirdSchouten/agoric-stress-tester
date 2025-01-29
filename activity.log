@@ -1048,3 +1048,4 @@
 2025-01-29 update API docs [25]
 2025-01-29 adjust validation rules [26]
 2025-01-29 restructure project [27]
+2025-01-29 fix docker build [28]

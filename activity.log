@@ -1062,3 +1062,4 @@
 2025-01-29 improve logging format [39]
 2025-01-29 update configs for prod [40]
 2025-01-29 update LICENSE [41]
+2025-01-29 add helper function [42]

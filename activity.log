@@ -1105,3 +1105,4 @@
 2025-01-30 fix CI errors [34]
 2025-01-30 adjust timeout [35]
 2025-01-31 enhance logging [1]
+2025-01-31 add integration tests [2]

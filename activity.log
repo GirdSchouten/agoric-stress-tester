@@ -1178,3 +1178,4 @@
 2025-02-02 fix bug [4]
 2025-02-02 restructure project [5]
 2025-02-02 better error handling [6]
+2025-02-02 fix docker build [7]

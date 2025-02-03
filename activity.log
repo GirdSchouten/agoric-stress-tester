@@ -1241,3 +1241,4 @@
 2025-02-03 stabilize build [24]
 2025-02-03 improve security [25]
 2025-02-03 update schema migration [26]
+2025-02-03 fix CI errors [27]

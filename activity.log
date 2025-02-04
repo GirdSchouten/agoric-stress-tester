@@ -1280,3 +1280,4 @@
 2025-02-04 adjust validation rules [24]
 2025-02-04 add tests [25]
 2025-02-04 update schema migration [26]
+2025-02-04 add fallback [27]

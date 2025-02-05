@@ -1308,3 +1308,4 @@
 2025-02-05 stabilize build [14]
 2025-02-05 fix encoding issue [15]
 2025-02-05 patch memory leak [16]
+2025-02-05 fix async issue [17]

@@ -1343,3 +1343,4 @@
 2025-02-06 improve logging format [16]
 2025-02-06 update database schema [17]
 2025-02-06 fix build error [18]
+2025-02-06 update configs for prod [19]

@@ -1347,3 +1347,4 @@
 2025-02-06 stabilize build [20]
 2025-02-06 minor refactor [21]
 2025-02-06 remove unused import [22]
+2025-02-07 fix null pointer [1]

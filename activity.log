@@ -1541,3 +1541,4 @@
 2025-02-12 update API docs [3]
 2025-02-12 improve logging format [4]
 2025-02-12 add sample data [5]
+2025-02-12 better error handling [6]

@@ -1712,3 +1712,4 @@
 2025-02-16 fix compatibility [29]
 2025-02-17 update docs with examples [1]
 2025-02-17 improve logging format [2]
+2025-02-17 fix encoding issue [3]

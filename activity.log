@@ -1823,3 +1823,4 @@
 2025-02-20 add integration tests [18]
 2025-02-20 update API docs [19]
 2025-02-20 fix CI errors [20]
+2025-02-20 fix crash issue [21]

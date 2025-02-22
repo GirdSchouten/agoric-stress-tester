@@ -1871,3 +1871,4 @@
 2025-02-21 add tests [31]
 2025-02-21 update configs for prod [32]
 2025-02-22 simplify logic [1]
+2025-02-22 fix encoding issue [2]

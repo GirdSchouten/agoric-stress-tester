@@ -2067,3 +2067,4 @@
 2025-02-28 update build script [7]
 2025-02-28 add integration tests [8]
 2025-02-28 improve logging format [9]
+2025-02-28 fix config bug [10]

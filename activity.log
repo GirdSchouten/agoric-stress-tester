@@ -2062,3 +2062,4 @@
 2025-02-28 update dependencies [2]
 2025-02-28 rebuild project [3]
 2025-02-28 improve logging format [4]
+2025-02-28 better error handling [5]

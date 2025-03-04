@@ -2182,3 +2182,4 @@
 2025-03-04 adjust validation rules [10]
 2025-03-04 upgrade dependencies [11]
 2025-03-04 stabilize build [12]
+2025-03-04 fix encoding issue [13]

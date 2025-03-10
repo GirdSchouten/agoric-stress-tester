@@ -2419,3 +2419,4 @@
 2025-03-10 fix null pointer [36]
 2025-03-10 increase test coverage [37]
 2025-03-10 fix warnings [38]
+2025-03-10 fix crash issue [39]

@@ -2500,3 +2500,4 @@
 2025-03-12 upgrade dependencies [33]
 2025-03-12 fix config bug [34]
 2025-03-12 add tests [35]
+2025-03-12 fix async issue [36]

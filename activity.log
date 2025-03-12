@@ -2487,3 +2487,4 @@
 2025-03-12 update configs for prod [20]
 2025-03-12 upgrade dependencies [21]
 2025-03-12 update docs with examples [22]
+2025-03-12 fix encoding issue [23]

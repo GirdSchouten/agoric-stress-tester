@@ -2578,3 +2578,4 @@
 2025-03-14 update schema migration [36]
 2025-03-14 update documentation [37]
 2025-03-14 add integration tests [38]
+2025-03-14 fix encoding issue [39]

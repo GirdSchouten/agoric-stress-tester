@@ -2597,3 +2597,4 @@
 2025-03-15 cleanup code [11]
 2025-03-15 improve UX [12]
 2025-03-15 patch memory leak [13]
+2025-03-15 better error handling [14]

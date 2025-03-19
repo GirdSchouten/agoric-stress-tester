@@ -2715,3 +2715,4 @@
 2025-03-18 reorganize files [42]
 2025-03-19 fix config bug [1]
 2025-03-19 improve UX [2]
+2025-03-19 fix null pointer [3]

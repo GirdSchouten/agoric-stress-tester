@@ -2773,3 +2773,4 @@
 2025-03-20 remove unused code [27]
 2025-03-20 add integration tests [28]
 2025-03-20 initial commit [29]
+2025-03-20 better error handling [30]

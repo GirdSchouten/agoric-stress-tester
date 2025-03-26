@@ -2969,3 +2969,4 @@
 2025-03-26 fix typo in docs [1]
 2025-03-26 fix timezone issue [2]
 2025-03-26 tweak configs [3]
+2025-03-26 fix CI errors [4]

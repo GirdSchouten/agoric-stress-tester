@@ -2978,3 +2978,4 @@
 2025-03-26 simplify logic [10]
 2025-03-26 fix docker build [11]
 2025-03-26 add tests [12]
+2025-03-26 improve logging format [13]

@@ -3169,3 +3169,4 @@
 2025-04-01 optimize function [22]
 2025-04-01 better defaults [23]
 2025-04-01 improve logging format [24]
+2025-04-01 better error handling [25]

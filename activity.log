@@ -3183,3 +3183,4 @@
 2025-04-02 update deployment script [1]
 2025-04-02 update CI pipeline [2]
 2025-04-02 add logging [3]
+2025-04-02 better error handling [4]

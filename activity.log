@@ -3651,3 +3651,4 @@
 2025-04-14 update schema migration [2]
 2025-04-14 improve security [3]
 2025-04-14 update dependencies [4]
+2025-04-14 fix null pointer [5]

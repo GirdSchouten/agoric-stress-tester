@@ -3760,3 +3760,4 @@
 2025-04-17 adjust error messages [2]
 2025-04-17 stabilize build [3]
 2025-04-17 improve caching [4]
+2025-04-17 add integration tests [5]

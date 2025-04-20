@@ -3876,3 +3876,4 @@
 2025-04-20 improve UX [18]
 2025-04-20 temporary fix [19]
 2025-04-20 fix docker build [20]
+2025-04-20 better error handling [21]

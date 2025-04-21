@@ -3894,3 +3894,4 @@
 2025-04-20 remove deprecated code [36]
 2025-04-21 fix broken link [1]
 2025-04-21 better error handling [2]
+2025-04-21 update schema migration [3]

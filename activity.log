@@ -4039,3 +4039,4 @@
 2025-04-24 fix edge case [37]
 2025-04-24 add example file [38]
 2025-04-24 clean project structure [39]
+2025-04-25 fix null pointer [1]

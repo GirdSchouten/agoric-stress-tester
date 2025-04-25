@@ -4054,3 +4054,4 @@
 2025-04-25 minor tweaks [13]
 2025-04-25 cleanup code [14]
 2025-04-25 update schema migration [15]
+2025-04-25 better error handling [16]

@@ -4077,3 +4077,4 @@
 2025-04-25 fix edge case [36]
 2025-04-25 rollback changes [37]
 2025-04-26 remove legacy code [1]
+2025-04-26 add helper function [2]

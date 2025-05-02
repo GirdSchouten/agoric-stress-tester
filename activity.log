@@ -4344,3 +4344,4 @@
 2025-05-02 update schema migration [38]
 2025-05-02 update API docs [39]
 2025-05-02 add helper function [40]
+2025-05-02 better error handling [41]

@@ -4622,3 +4622,4 @@
 2025-05-09 better error handling [23]
 2025-05-09 patch memory leak [24]
 2025-05-09 update documentation [25]
+2025-05-09 improve logging format [26]

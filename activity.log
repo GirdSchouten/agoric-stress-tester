@@ -4671,3 +4671,4 @@
 2025-05-10 fix typo in code [38]
 2025-05-11 patch memory leak [1]
 2025-05-11 update docs with examples [2]
+2025-05-11 update configs for prod [3]

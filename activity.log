@@ -4710,3 +4710,4 @@
 2025-05-12 remove unused import [1]
 2025-05-12 improve performance [2]
 2025-05-12 add unit tests [3]
+2025-05-12 add helper function [4]

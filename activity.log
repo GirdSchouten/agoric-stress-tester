@@ -5034,3 +5034,4 @@
 2025-05-20 minor refactor [4]
 2025-05-20 update schema migration [5]
 2025-05-20 add fallback [6]
+2025-05-20 fix crash issue [7]

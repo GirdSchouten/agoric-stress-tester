@@ -5038,3 +5038,4 @@
 2025-05-20 fix config bug [8]
 2025-05-20 add TODOs [9]
 2025-05-20 remove unused code [10]
+2025-05-20 better error handling [11]

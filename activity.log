@@ -5076,3 +5076,4 @@
 2025-05-21 stabilize build [8]
 2025-05-21 fix null pointer [9]
 2025-05-21 update feature [10]
+2025-05-21 improve logging format [11]

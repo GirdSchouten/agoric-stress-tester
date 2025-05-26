@@ -5280,3 +5280,4 @@
 2025-05-26 fix config bug [25]
 2025-05-26 update schema migration [26]
 2025-05-26 update scripts [27]
+2025-05-26 improve logging format [28]

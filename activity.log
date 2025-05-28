@@ -5324,3 +5324,4 @@
 2025-05-28 update gitignore [14]
 2025-05-28 add logging [15]
 2025-05-28 better error handling [16]
+2025-05-28 fix CI errors [17]

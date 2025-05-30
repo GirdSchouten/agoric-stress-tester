@@ -5400,3 +5400,4 @@
 2025-05-30 remove unused code [16]
 2025-05-30 update LICENSE [17]
 2025-05-30 cleanup dependencies [18]
+2025-05-30 fix docker build [19]

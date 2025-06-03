@@ -5526,3 +5526,4 @@
 2025-06-03 add fallback [16]
 2025-06-03 remove unused import [17]
 2025-06-03 add tests [18]
+2025-06-03 update schema migration [19]

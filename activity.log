@@ -5694,3 +5694,4 @@
 2025-06-09 fix timezone issue [12]
 2025-06-09 update version [13]
 2025-06-09 clean project structure [14]
+2025-06-09 better error handling [15]

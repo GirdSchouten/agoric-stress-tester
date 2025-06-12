@@ -5772,3 +5772,4 @@
 2025-06-11 refactor code [20]
 2025-06-11 fix crash issue [21]
 2025-06-12 update schema migration [1]
+2025-06-12 fix null pointer [2]

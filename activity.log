@@ -5825,3 +5825,4 @@
 2025-06-13 cleanup dependencies [25]
 2025-06-13 update schema migration [26]
 2025-06-13 update configs [27]
+2025-06-13 enhance error reporting [28]

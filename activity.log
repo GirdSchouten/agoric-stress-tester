@@ -5878,3 +5878,4 @@
 2025-06-15 fix type error [23]
 2025-06-15 rollback changes [24]
 2025-06-15 add integration tests [25]
+2025-06-15 improve logging format [26]

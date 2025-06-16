@@ -5932,3 +5932,4 @@
 2025-06-16 fix crash issue [33]
 2025-06-16 better error handling [34]
 2025-06-16 fix config bug [35]
+2025-06-16 reduce complexity [36]

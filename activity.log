@@ -5931,3 +5931,4 @@
 2025-06-16 fix typo in code [32]
 2025-06-16 fix crash issue [33]
 2025-06-16 better error handling [34]
+2025-06-16 fix config bug [35]

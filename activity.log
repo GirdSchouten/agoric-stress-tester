@@ -6285,3 +6285,4 @@
 2025-06-26 better error handling [20]
 2025-06-26 update docs with examples [21]
 2025-06-26 update database schema [22]
+2025-06-27 fix permission issue [1]

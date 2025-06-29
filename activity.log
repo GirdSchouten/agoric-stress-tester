@@ -6363,3 +6363,4 @@
 2025-06-29 rollback changes [22]
 2025-06-29 improve performance [23]
 2025-06-29 better error handling [24]
+2025-06-29 fix null pointer [25]

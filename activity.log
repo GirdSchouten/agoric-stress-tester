@@ -6431,3 +6431,4 @@
 2025-07-01 experimental changes [32]
 2025-07-01 rollback changes [33]
 2025-07-02 upgrade dependencies [1]
+2025-07-02 patch memory leak [2]

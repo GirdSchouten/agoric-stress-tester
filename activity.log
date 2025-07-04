@@ -6507,3 +6507,4 @@
 2025-07-04 fix permission issue [19]
 2025-07-04 change configuration [20]
 2025-07-04 update schema migration [21]
+2025-07-04 add tests [22]

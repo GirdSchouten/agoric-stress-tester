@@ -6521,3 +6521,4 @@
 2025-07-05 remove test code [2]
 2025-07-05 fix timezone issue [3]
 2025-07-05 update gitignore [4]
+2025-07-05 improve logging format [5]

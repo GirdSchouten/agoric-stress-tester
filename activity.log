@@ -6575,3 +6575,4 @@
 2025-07-06 optimize function [23]
 2025-07-06 fix typo in code [24]
 2025-07-06 add integration tests [25]
+2025-07-06 fix encoding issue [26]

@@ -6937,3 +6937,4 @@
 2025-07-16 update configs for prod [30]
 2025-07-16 update deployment script [31]
 2025-07-16 UI improvements [32]
+2025-07-16 fix docker build [33]

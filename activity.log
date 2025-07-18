@@ -6995,3 +6995,4 @@
 2025-07-18 add fallback [13]
 2025-07-18 restructure modules [14]
 2025-07-18 improve maintainability [15]
+2025-07-18 better error handling [16]

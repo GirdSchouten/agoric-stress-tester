@@ -7405,3 +7405,4 @@
 2025-07-29 add logging [1]
 2025-07-29 improve logging format [2]
 2025-07-29 small refactor [3]
+2025-07-29 fix crash issue [4]

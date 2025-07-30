@@ -7472,3 +7472,4 @@
 2025-07-30 fix compatibility [32]
 2025-07-30 update schema migration [33]
 2025-07-30 improve maintainability [34]
+2025-07-30 better error handling [35]

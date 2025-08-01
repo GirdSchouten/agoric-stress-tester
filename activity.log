@@ -7528,3 +7528,4 @@
 2025-08-01 update API keys [11]
 2025-08-01 better error handling [12]
 2025-08-01 remove unused code [13]
+2025-08-01 fix encoding issue [14]

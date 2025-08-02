@@ -7565,3 +7565,4 @@
 2025-08-02 upgrade dependencies [14]
 2025-08-02 restructure modules [15]
 2025-08-02 remove debug output [16]
+2025-08-02 fix encoding issue [17]

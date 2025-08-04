@@ -7631,3 +7631,4 @@
 2025-08-04 improve caching [15]
 2025-08-04 add fallback [16]
 2025-08-04 patch vulnerability [17]
+2025-08-04 fix null pointer [18]

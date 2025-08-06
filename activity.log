@@ -7699,3 +7699,4 @@
 2025-08-06 update schema migration [23]
 2025-08-06 adjust error messages [24]
 2025-08-06 enhance logging [25]
+2025-08-06 improve logging format [26]

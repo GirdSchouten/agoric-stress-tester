@@ -7740,3 +7740,4 @@
 2025-08-07 fix timezone issue [29]
 2025-08-07 cleanup dependencies [30]
 2025-08-07 update linter rules [31]
+2025-08-07 remove legacy code [32]

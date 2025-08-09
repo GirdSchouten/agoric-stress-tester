@@ -7787,3 +7787,4 @@
 2025-08-09 update build script [10]
 2025-08-09 fix async issue [11]
 2025-08-09 reformat code [12]
+2025-08-09 better error handling [13]

@@ -7845,3 +7845,4 @@
 2025-08-11 add example file [4]
 2025-08-11 improve caching [5]
 2025-08-11 update build script [6]
+2025-08-11 fix CI errors [7]

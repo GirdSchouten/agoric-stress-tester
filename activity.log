@@ -8229,3 +8229,4 @@
 2025-08-21 update schema migration [4]
 2025-08-21 restructure project [5]
 2025-08-21 remove deprecated code [6]
+2025-08-21 improve logging format [7]

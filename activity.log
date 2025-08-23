@@ -8310,3 +8310,4 @@
 2025-08-23 fix timezone issue [10]
 2025-08-23 cleanup dependencies [11]
 2025-08-23 adjust timeout [12]
+2025-08-23 improve logging format [13]

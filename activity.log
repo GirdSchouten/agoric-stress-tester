@@ -8383,3 +8383,4 @@
 2025-08-25 update configs [14]
 2025-08-25 improve logging format [15]
 2025-08-25 reorganize files [16]
+2025-08-25 fix null pointer [17]

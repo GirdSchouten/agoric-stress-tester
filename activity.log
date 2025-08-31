@@ -8604,3 +8604,4 @@
 2025-08-31 fix null pointer [40]
 2025-08-31 fix CI errors [41]
 2025-08-31 update README [42]
+2025-08-31 enhance logging [43]

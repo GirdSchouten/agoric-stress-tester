@@ -8585,3 +8585,4 @@
 2025-08-31 fix permission issue [21]
 2025-08-31 update schema migration [22]
 2025-08-31 add example file [23]
+2025-08-31 fix config bug [24]

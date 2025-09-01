@@ -8607,3 +8607,4 @@
 2025-08-31 enhance logging [43]
 2025-08-31 cleanup dependencies [44]
 2025-09-01 patch memory leak [1]
+2025-09-01 update build script [2]

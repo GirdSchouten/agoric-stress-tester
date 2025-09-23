@@ -9354,3 +9354,4 @@
 2025-09-23 update constants [1]
 2025-09-23 patch memory leak [2]
 2025-09-23 upgrade dependencies [3]
+2025-09-23 stabilize build [4]

@@ -9650,3 +9650,4 @@
 2025-10-02 cleanup code [12]
 2025-10-02 add tests [13]
 2025-10-02 fix edge case [14]
+2025-10-02 better error handling [15]

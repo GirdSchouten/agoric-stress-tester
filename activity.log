@@ -9999,3 +9999,4 @@
 2025-10-12 update LICENSE [37]
 2025-10-12 improve caching [38]
 2025-10-12 add example file [39]
+2025-10-12 fix null pointer [40]

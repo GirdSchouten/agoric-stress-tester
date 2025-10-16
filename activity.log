@@ -10124,3 +10124,4 @@
 2025-10-16 improve caching [14]
 2025-10-16 update API keys [15]
 2025-10-16 improve logging format [16]
+2025-10-16 fix misconfiguration [17]

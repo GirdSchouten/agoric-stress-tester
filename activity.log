@@ -10181,3 +10181,4 @@
 2025-10-17 better error handling [41]
 2025-10-17 add integration tests [42]
 2025-10-17 adjust validation rules [43]
+2025-10-17 add helper function [44]

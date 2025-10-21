@@ -10278,3 +10278,4 @@
 2025-10-21 update CI pipeline [7]
 2025-10-21 cleanup dependencies [8]
 2025-10-21 update constants [9]
+2025-10-21 better error handling [10]

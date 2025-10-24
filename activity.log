@@ -10374,3 +10374,4 @@
 2025-10-23 fix encoding issue [45]
 2025-10-23 update scripts [46]
 2025-10-23 fix CI errors [47]
+2025-10-24 improve logging format [1]

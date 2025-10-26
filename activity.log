@@ -10469,3 +10469,4 @@
 2025-10-26 cleanup dependencies [19]
 2025-10-26 remove debug output [20]
 2025-10-26 improve caching [21]
+2025-10-26 improve security [22]

@@ -10467,3 +10467,4 @@
 2025-10-26 update database schema [17]
 2025-10-26 fix crash issue [18]
 2025-10-26 cleanup dependencies [19]
+2025-10-26 remove debug output [20]

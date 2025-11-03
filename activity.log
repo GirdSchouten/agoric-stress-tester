@@ -10729,3 +10729,4 @@
 2025-11-03 update configs for prod [1]
 2025-11-03 add tests [2]
 2025-11-03 stabilize build [3]
+2025-11-03 improve logging format [4]

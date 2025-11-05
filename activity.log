@@ -10822,3 +10822,4 @@
 2025-11-05 remove unused import [13]
 2025-11-05 better error handling [14]
 2025-11-05 fix build error [15]
+2025-11-05 small refactor [16]

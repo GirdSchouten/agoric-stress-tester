@@ -10812,3 +10812,4 @@
 2025-11-05 update dependencies [3]
 2025-11-05 experimental changes [4]
 2025-11-05 adjust validation rules [5]
+2025-11-05 fix null pointer [6]

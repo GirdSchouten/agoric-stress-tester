@@ -10868,3 +10868,4 @@
 2025-11-06 fix edge case [12]
 2025-11-06 fix typo in docs [13]
 2025-11-06 fix timezone issue [14]
+2025-11-06 improve logging format [15]

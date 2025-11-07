@@ -10921,3 +10921,4 @@
 2025-11-07 add integration tests [17]
 2025-11-07 increase test coverage [18]
 2025-11-07 update build script [19]
+2025-11-07 fix crash issue [20]

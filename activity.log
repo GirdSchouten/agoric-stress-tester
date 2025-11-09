@@ -10968,3 +10968,4 @@
 2025-11-09 fix docker build [10]
 2025-11-09 fix typo in code [11]
 2025-11-09 rollback changes [12]
+2025-11-09 fix crash issue [13]

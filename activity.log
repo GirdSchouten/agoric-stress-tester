@@ -11002,3 +11002,4 @@
 2025-11-10 better error handling [12]
 2025-11-10 fix type error [13]
 2025-11-10 fix async issue [14]
+2025-11-10 add integration tests [15]

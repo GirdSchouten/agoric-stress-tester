@@ -11062,3 +11062,4 @@
 2025-11-12 fix encoding issue [4]
 2025-11-12 cleanup dependencies [5]
 2025-11-12 optimize queries [6]
+2025-11-12 change configuration [7]

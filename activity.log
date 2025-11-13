@@ -11110,3 +11110,4 @@
 2025-11-13 upgrade dependencies [4]
 2025-11-13 change configuration [5]
 2025-11-13 improve logging format [6]
+2025-11-13 fix build error [7]

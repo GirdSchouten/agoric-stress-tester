@@ -11270,3 +11270,4 @@
 2025-11-18 fix config bug [17]
 2025-11-18 update constants [18]
 2025-11-18 better error handling [19]
+2025-11-18 patch memory leak [20]

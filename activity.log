@@ -11254,3 +11254,4 @@
 2025-11-18 fix build error [1]
 2025-11-18 add example file [2]
 2025-11-18 improve maintainability [3]
+2025-11-18 improve logging format [4]

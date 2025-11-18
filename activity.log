@@ -11269,3 +11269,4 @@
 2025-11-18 fix crash issue [16]
 2025-11-18 fix config bug [17]
 2025-11-18 update constants [18]
+2025-11-18 better error handling [19]

@@ -11319,3 +11319,4 @@
 2025-11-19 fix docker build [21]
 2025-11-19 fix CI errors [22]
 2025-11-19 add logging [23]
+2025-11-19 add fallback [24]

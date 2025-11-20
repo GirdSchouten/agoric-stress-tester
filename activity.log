@@ -11343,3 +11343,4 @@
 2025-11-20 add fallback [17]
 2025-11-20 fix docker build [18]
 2025-11-20 add unit tests [19]
+2025-11-20 simplify logic [20]

@@ -11421,3 +11421,4 @@
 2025-11-22 remove unused import [21]
 2025-11-22 simplify logic [22]
 2025-11-22 temporary fix [23]
+2025-11-22 better error handling [24]

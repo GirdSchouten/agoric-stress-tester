@@ -11557,3 +11557,4 @@
 2025-11-26 fix async issue [5]
 2025-11-26 optimize queries [6]
 2025-11-26 improve logging format [7]
+2025-11-26 better error handling [8]

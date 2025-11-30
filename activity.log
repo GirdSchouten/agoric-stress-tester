@@ -11740,3 +11740,4 @@
 2025-11-30 remove unused import [44]
 2025-11-30 improve logging format [45]
 2025-11-30 initial commit [46]
+2025-11-30 enhance error reporting [47]

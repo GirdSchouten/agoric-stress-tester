@@ -11771,3 +11771,4 @@
 2025-12-01 update configs for prod [27]
 2025-12-01 cleanup dependencies [28]
 2025-12-01 update database schema [29]
+2025-12-01 better error handling [30]

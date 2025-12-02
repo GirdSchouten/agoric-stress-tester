@@ -11784,3 +11784,4 @@
 2025-12-02 remove deprecated code [4]
 2025-12-02 fix compatibility [5]
 2025-12-02 fix misconfiguration [6]
+2025-12-02 add integration tests [7]

@@ -11821,3 +11821,4 @@
 2025-12-03 fix edge case [11]
 2025-12-03 add example file [12]
 2025-12-03 add integration tests [13]
+2025-12-03 fix config bug [14]

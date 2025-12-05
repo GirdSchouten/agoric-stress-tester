@@ -11890,3 +11890,4 @@
 2025-12-05 cleanup dependencies [11]
 2025-12-05 stabilize build [12]
 2025-12-05 add logging [13]
+2025-12-05 add integration tests [14]

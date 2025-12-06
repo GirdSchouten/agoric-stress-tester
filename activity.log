@@ -11941,3 +11941,4 @@
 2025-12-06 improve logging format [36]
 2025-12-06 update API endpoints [37]
 2025-12-06 fix null pointer [38]
+2025-12-06 fix build error [39]

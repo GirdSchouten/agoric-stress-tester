@@ -12444,3 +12444,4 @@
 2025-12-21 improve caching [1]
 2025-12-21 update build script [2]
 2025-12-21 enhance logging [3]
+2025-12-21 fix encoding issue [4]

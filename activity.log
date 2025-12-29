@@ -12746,3 +12746,4 @@
 2025-12-29 improve security [8]
 2025-12-29 restructure modules [9]
 2025-12-29 adjust error messages [10]
+2025-12-29 fix encoding issue [11]

@@ -12788,3 +12788,4 @@
 2025-12-29 enhance error reporting [50]
 2025-12-30 small refactor [1]
 2025-12-30 patch memory leak [2]
+2025-12-30 fix edge case [3]
